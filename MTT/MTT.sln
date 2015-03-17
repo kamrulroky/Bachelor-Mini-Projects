@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTT.Web", "MTT.Web\MTT.Web.csproj", "{9EA3CFBE-CC92-47DE-BD7F-5B3DBD9ABF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTT.Foundation", "MTT.Foundation\MTT.Foundation.csproj", "{288F39D2-3DDA-4565-806F-E91B25489945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA3CFBE-CC92-47DE-BD7F-5B3DBD9ABF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA3CFBE-CC92-47DE-BD7F-5B3DBD9ABF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA3CFBE-CC92-47DE-BD7F-5B3DBD9ABF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA3CFBE-CC92-47DE-BD7F-5B3DBD9ABF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288F39D2-3DDA-4565-806F-E91B25489945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288F39D2-3DDA-4565-806F-E91B25489945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288F39D2-3DDA-4565-806F-E91B25489945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288F39D2-3DDA-4565-806F-E91B25489945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

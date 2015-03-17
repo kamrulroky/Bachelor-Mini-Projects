@@ -1,0 +1,4 @@
+C:\Users\ratul\Desktop\WebTest\MTT\MTT.Foundation\bin\Debug\MTT.Foundation.dll
+C:\Users\ratul\Desktop\WebTest\MTT\MTT.Foundation\bin\Debug\MTT.Foundation.pdb
+C:\Users\ratul\Desktop\WebTest\MTT\MTT.Foundation\obj\Debug\MTT.Foundation.dll
+C:\Users\ratul\Desktop\WebTest\MTT\MTT.Foundation\obj\Debug\MTT.Foundation.pdb
